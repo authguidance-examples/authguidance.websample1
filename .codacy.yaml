@@ -1,0 +1,9 @@
+---
+exclude_paths: [
+    '*',
+    'api/*',    
+    'api/data/**',
+    'spa/*',    
+    'spa/css/**',
+    'spa/webpack/**'
+]
